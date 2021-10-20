@@ -28,7 +28,7 @@ organizerLink: "http://https://wp.nyu.edu/ml2/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  - {link: "https://forms.gle/VN1mtqCxVkRRtfYd6", text: "Apply"}
  - {link: "https://colab.research.google.com/drive/1nYVb-pBKV5k2zFRoO_qrryl75jZXbBq0?usp=sharing", text: "Assignment"}
 # - {permalink: "/team/", text: "Team"}
@@ -57,10 +57,10 @@ aboutBlock:
 # Latest News Block
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 8
-rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 8
+#rockstarSpeakersTitle: "Speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 
 

@@ -1,10 +1,10 @@
 - 
   id: 1
-  name: "Sara"
-  surname: "Hooker"
-  company: "Google Brain"
-  title: "Research Scholar"
-  bio: "<a href='https://www.sarahooker.me/'>Sara Hooker</a> is a researcher at Google Brain doing deep learning research on reliable explanations of model predictions for black-box models. Her main research interests gravitate towards interpretability, model compression and security. In 2014, she founded Delta Analytics, a non-profit dedicated to bringing technical capacity to help non-profits across the world use machine learning for good."
+  name: "Emily"
+  surname: "Denton"
+  company: "Google"
+  title: "Senior Research Scientist"
+  bio: "<a href='https://cephaloponderer.com/'>Emily Denton</a> is a Senior Research Scientist at Google"
   thumbnailUrl: sara_hooker.png
   rockstar: true 
 - 
