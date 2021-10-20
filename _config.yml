@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "NYU AI School"
 email: "nyuaischool@gmail.com"
 description: "NYU AI School"
-baseurl: "/nyu-ai-school-2021"
+baseurl: "/nyu-ai-school-2022"
 url: "https://nyu-mll.github.io"
 permalink: "/blog/:title"
 
@@ -36,13 +36,13 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "NYU AI School"
-eventDate: "January 4 - 8, 2021"
+eventDate: "January 10 - 14, 2022"
 typeoutTextValues: 'NYU AI School'
 
 # About Block
 aboutTitle: "About NYU AI School"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "NYU AI School is a free AI bootcamp carefully crafted for early year undergraduate student! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
@@ -75,6 +75,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://wp.nyu.edu/ml2/", text: "NYU Machine Learning for Language (ML²) Group"}
+   - {link: "https://cds.nyu.edu/", text: "NYU Center for Data Science"}
 
  -
   title: "Contacts"
