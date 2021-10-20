@@ -57,10 +57,10 @@ aboutBlock:
 # Latest News Block
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 8
-#rockstarSpeakersTitle: "Speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 8
+rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 
 

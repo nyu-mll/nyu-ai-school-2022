@@ -9,123 +9,22 @@
   rockstar: true 
 - 
   id: 2
-  name: "Pablo"
-  surname: "Samuel Castro"
-  company: "Google Brain"
-  title: "Research Software Engineer"
-  bio: "<a href='https://research.google/people/105571/'>Pablo Samuel</a> was born and raised in Quito, Ecuador, and moved to Montreal after high school to study at McGill. He stayed in Montreal for the next 10 years, finished his bachelors, worked at a flight simulator company, and then eventually obtained his masters and PhD at McGill, focusing on Reinforcement Learning. After his PhD Pablo did a 10-month postdoc in Paris before moving to Pittsburgh to join Google. He has worked at Google for almost 7 years, and is currently a research Software Developer in Google Brain in Montreal, focusing on fundamental Reinforcement Learning research, as well as Machine Learning and Creativity. Aside from his interest in coding/AI/math, Pablo is an <a href='https://www.psctrio.com/'>active musician</a>, loves running (5 marathons so far, including Boston!), and discussing politics and activism."
+  name: "Sabrina"
+  surname: "Mielke"
+  company: "John Hopkins University"
+  title: "PhD Candidate"
+  bio: ""
   thumbnailUrl: pablo_castro.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/pcastr"}
 - 
   id: 3
-  name: "Carlos"
-  surname: "Fernandez Granda"
+  name: "Nan"
+  surname: "Wu"
   company: "New York University"
-  title: "Assistant Professor"
+  title: "PhD Candidate"
   bio: "<a href='https://cims.nyu.edu/~cfgranda/'>Carlos Fernandez Granda</a> is Assistant Professor of Mathematics and Data Science at the Courant Institute of Mathematical Science and Center for Data Science at New York University. His research focuses on the design and analysis of data-science methodology. He is interested in theory of inverse problems, machine learning, and data-driven medicine."
   thumbnailUrl: carlos.jpg
-  rockstar: true
--
-  id: 4
-  name: "Lerrel"
-  surname: "Pinto"
-  company: "New York University"
-  title: "Assistant Professor" 
-  bio: "<a href='https://cs.nyu.edu/~lerrel/'>Lerrel</a> is an Assistant Professor of CS at NYU. His research is centered around developing Machine Learning techniques for Robotics. Previously, he was a postdoctoral fellow at UC Berkeley, working with Alyosha Efros and Pieter Abbeel. Even earlier, he received a Ph.D. in Robotics from CMU, working with Abhinav Gupta. Information about his research can be found on <a href='https://cs.nyu.edu/~lerrel/'>his website.</a>"
-  thumbnailUrl: lerrel.jpg
-  rockstar: true 
--
-  id: 5
-  name: "Andrew"
-  surname: "G. Wilson"
-  company: "New York University"
-  title: "Assistant Professor" 
-  bio: "<a href='https://cims.nyu.edu/~andrewgw/'>Andrew G. Wilson</a> is an Assistant Professor at the Center for Data Science and Courant Institute at NYU. He is interested in developing flexible, interpretable, and scalable machine learning models, often involving deep learning, Gaussian processes, and kernel learning. He cares about developing practically impactful methods, while at the same understanding why the methods work, and the foundations for building models that learn and generalize. He is particularly excited about loss surfaces, generalization, probabilistic generative models, and Bayesian methods in deep learning. His work has been applied to time series, vision, NLP, spatial statistics, public policy, medicine, and physics. Outside of work, he is a classical pianist who particularly enjoys Glenn Gould's playing of Bach."
-  thumbnailUrl: andrewgwilson.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/andrewgwils"}
-- 
-  id: 6
-  name: "Jennifer"
-  surname: "Wortman Vaughan"
-  company: "Microsoft Research"
-  title: "Senior Principal" 
-  bio: "<a href='http://www.jennwv.com/'>Jenn Wortman Vaughan</a> is a Senior Principal Researcher at Microsoft Research, New York City. Her research background is in machine learning and algorithmic economics. She is especially interested in the interaction between people and AI, and has often studied this interaction in the context of prediction markets and other crowdsourcing systems. In recent years, she has turned her attention to fair and interpretable machine learning as part of MSR’s FATE group. Jenn came to MSR in 2012 from UCLA, where she was an assistant professor in the computer science department. She completed her Ph.D. at the University of Pennsylvania in 2009, and subsequently spent a year as a Computing Innovation Fellow at Harvard. She is the recipient of Penn’s 2009 Rubinoff dissertation award for innovative applications of computer technology, a National Science Foundation CAREER award, a Presidential Early Career Award for Scientists and Engineers (PECASE), and a handful of best paper awards. In her “spare” time, Jenn is involved in a variety of efforts to provide support for women in computer science; most notably, she co-founded the Annual Workshop for Women in Machine Learning, which has been held each year since 2006."
-  thumbnailUrl: jennwv.png
-  rockstar: true 
-- 
-  id: 7
-  name: "Akash"
-  surname: "Srivastava"
-  company: "MIT-IBM Lab"
-  title: "Research Scientist" 
-  bio: "<a href='https://akashgit.github.io/'>Akash Srivastava</a> is a research scientist at the new <a href='https://mitibmwatsonailab.mit.edu/'>MIT-IBM</a> lab in Cambridge, MA where he works on <a href='https://bcs.mit.edu/'>building machines with child-like common-sense and intuitive physics using probabilistic modeling and Bayesian inference</a>. Before this, he was a PhD student in the Informatics Forum at the University of Edinburgh where he worked with Dr Charles Sutton and Dr Michael U. Gutmann on variational inference for generative models using deep learning."
-  thumbnailUrl: akash.jpeg
-  rockstar: true 
-- 
-  id: 8
-  name: "Chris"
-  surname: "Albon"
-  company: "Wikimedia Foundation"
-  title: "Director of Machine Learning" 
-  bio: "<a href='https://chrisalbon.com'>Chris Albon</a> has spent over a decade applying statistical learning, artificial intelligence, and software engineering to political, social, and humanitarian efforts. He is the Director of Machine Learning at the <a href='https://wikimediafoundation.org/'>Wikimedia Foundation</a>. Previously, he was the Director of Data Science at <a href='https://www.devoted.com/'>Devoted Health</a>, Director of Data Science at the Kenyan startup BRCK, cofounded the AI startup Yonder, created the data science podcast Partially Derivative, was the Director of Data Science at the humanitarian non-profit Ushahidi, and was the director of the low-resource technology governance project at FrontlineSMS. He also wrote <a href='https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386'>Machine Learning For Python Cookbook</a> (O’Reilly 2018) and created Machine Learning Flashcards. Chris earned a Ph.D. in Political Science from the University of California, Davis researching the quantitative impact of civil wars on health care systems. He earned a B.A. from the University of Miami, where he triple majored in political science, international studies, and religious studies."
-  thumbnailUrl: chris.png
-  rockstar: true 
--
-  id: 9
-  name: "Siddharth"
-  surname: "Srivastava"
-  company: "Centre for Development of Advanced Computing"
-  title: "Principal Technical Officer"
-  bio: "Siddharth Srivastava works as a Principal Technical Officer at Centre for Development of Advanced Computing, Noida, India where he is leading AI initiatives in Health Informatics. His research interests span developing systems and algorithms for applying machine learning and computer vision to healthcare and autonomous vehicles/robots. He earned his Ph.D. from Indian Institute of Technology Delhi. He is an IEEE Senior Member and has been awarded Director General C-DAC Young Innovator Award 2020. He has experience of nearly a decade of building AI systems from ground-up for Health Informatics and Computer Vision applications. He is passionate about transforming research to practical applications. The systems designed by him are being used by millions of users."
-  thumbnailUrl: sidsri.jpg
-  rockstar: true
--
-  id: 10
-  name: "Jaan"
-  surname: "Altosaar"
-  company: "Columbia University"
-  title: "Postdoctoral Officer"
-  bio: "Jaan Altosaar is a Postdoctoral Research Scientist at Columbia University Irving Medical Center focused on machine learning and health care. His research focuses on machine learning methodology such as variational inference methods or recommender systems, in service of addressing issues in mental health, health disparity, and women's health. He completed his Ph.D. in Physics at Princeton University, advised by David Blei and Shivaji Sondhi. During his Ph.D., he was a visiting academic at the Center for Data Science at New York University with Kyle Cranmer. He has interned at Google Brain and DeepMind and his doctoral work was supported by fellowships from the Natural Sciences and Engineering Research Council of Canada. Prior to Princeton, Jaan earned his B.Sc. in Mathematics and Physics from McGill University."
-  thumbnailUrl: altosaar.jpg
-  rockstar: true
--
-  id: 11
-  name: "Naila"
-  surname: "Murray"
-  company: "Facebook AI Research"
-  title: "Head of Engineering, EMEA"
-  bio: "Naila Murray obtained a B.Sc. in Electrical Engineering from Princeton University in 2007. In 2012, she received her PhD from the Universitat Autonoma de Barcelona, in affiliation with the Computer Vision Center. She joined Xerox Research Centre Europe in 2013 as a research scientist in the computer vision team, working on topics including fine-grained visual categorization, image retrieval and visual attention. From 2015 to 2019 she led the computer vision team at Xerox Research Centre Europe, and continued to serve in this role after its acquisition and transition to becoming NAVER LABS Europe. In 2019 she became the director of science at NAVER LABS Europe. In 2020, she joined Facebook AI Research as its head of engineering for EMEA. In this role, she supports and participates in open research and development that contributes to the artificial intelligence community, while helping to build services that connect people to what they care about. She has served as area chair for ICLR 2018, ICCV 2019, ICLR 2019, CVPR 2020, ECCV 2020, and programme chair for ICLR 2021. Her current research interests include representation learning and weakly-supervised learning for visual data."
-  thumbnailUrl: nailam.jpg
-  rockstar: true
--
-  id: 12
-  name: "Rosanne"
-  surname: "Liu"
-  company: "ML Collective"
-  title: "Co-Founder and Executive Director"
-  bio: "<a href='http://rosanneliu.com/'>Rosanne Liu</a> is a machine learning researcher, Co-Founder and Executive Director of <a href='https://mlcollective.org'>ML Collective</a>, a nonprofit organization providing open collaboration and free mentorship for ML research. Before that she was a founding member of Uber AI. She has published research at NeurIPS, ICLR, ICML, Science and other top venues, and her work has been covered by WIRED, MIT Tech Review, Fortune and others. She obtained her PhD in Computer Science at Northwestern University; while at school she used neural networks to help discover novel materials, and to optimize fuel efficiency in hybrid vehicles. Outside of research, she gives talks for underrepresented communities, and organizes symposiums, workshops, and a weekly reading group <a href='http://mlcollective.org/dlct'>'Deep Learning: Classics and Trends'</a> since 2018. She is currently thinking deeply how to democratize AI research even further, and improve the diversity and fairness of the field, while working on multiple fronts of machine learning research including understanding training dynamics, rethinking model capacity, and playing with generative language models. Through all these efforts she wants to make neural networks a better place."
-  thumbnailUrl: rosanne.jpg
-  rockstar: true
--
-  id: 13
-  name: "Marianne"
-  surname: "Monteiro"
-  company: "DeepMind"
-  title: "Research Engineer"
-  bio: "<a href='http://mari-linhares.github.io/'>Marianne Monteiro</a> is currently a Research Engineer at DeepMind (London). Before her current role she contributed to OpenMined as an open source developer and interned with DeepMind and Google. Her background is in Computer Science, she did her Bachelor at Universidade Federal de Campina Grande (Brazil). She is interested in applying Machine Learning for solving real world problems and is passionate about education. You can find her on Twitter <a href='https://twitter.com/hereismari'>@hereismari</a>"
-  thumbnailUrl: marianne.jpg
-  rockstar: true
--
-  id: 14
-  name: "Veronika"
-  surname: "Cheplygina"
-  company: "ITU Copenhagen"
-  title: "Associate Professor"
-  bio: "Dr. Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as a tenure track assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she decided to leave the tenure track in search of the next step where she can contribute to open and inclusive science. She will soon get to do this at the IT University of Copenhagen, where she is starting her position as a tenured associate professor in 2021. Next to research and teaching, Veronika blogs about academic life on <a href='https://www.veronikach.com'>her blog</a>, and gives talks and workshops on failure and related topics. She also loves cats, which you will often encounter in her work."
-  thumbnailUrl: veronika.jpg
   rockstar: true
 -
