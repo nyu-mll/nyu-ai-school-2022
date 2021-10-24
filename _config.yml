@@ -58,9 +58,9 @@ aboutBlock:
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 8
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "(More speakers: TBD)"
 
 
 

@@ -14,28 +14,48 @@
   social: {name: "site", link: "https://obj.umiacs.umd.edu/kdbrant/index.html"}
 -
   id: 2
+  name: "Katrina"
+  surname: "Evtimova"
+  company: "New York University"
+  thumbnailUrl: katrina.png
+  social: {name: "site", link: "https://kevtimova.github.io/"}
+-
+  id: 3
   name: "Phu Mon"
   surname: "Htut"
   company: "New York University"
   thumbnailUrl: phu.jpg
   social: {name: "site", link: "http://phumonhtut.me"}
 -
-  id: 3
+  id: 4
+  name: "Ilia"
+  surname: "Kulikov"
+  company: "New York University"
+  thumbnailUrl: ilia.jpeg
+  social: {name: "site", link: "https://iliakulikov.ru/"}
+-
+  id: 5
   name: "Swapneel"
   surname: "Mehta"
   company: "New York University"
   thumbnailUrl: swapneel.png
   social: {name: "site", link: "https://swapneelm.github.io/"}
 - 
-  id: 4
+  id: 6
   name: "Nikita"
   surname: "Nangia"
   company: "New York University"
   thumbnailUrl: nikita.png
   social: {name: "site", link: "https://woollysocks.github.io/"}
-   
 - 
-  id: 5
+  id: 7
+  name: "Richard"
+  surname: "Pang"
+  company: "New York University"
+  thumbnailUrl: richard.jpg
+  social: {name: "site", link: "https://yzpang.github.io/"}
+- 
+  id: 8
   name: "Alex"
   surname: "Wang"
   company: "New York University"
