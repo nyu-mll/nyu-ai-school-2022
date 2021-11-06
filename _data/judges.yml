@@ -12,50 +12,64 @@
   company: "University of Maryland"
   thumbnailUrl: kiante.jpg
   social: {name: "site", link: "https://obj.umiacs.umd.edu/kdbrant/index.html"}
--
+- 
   id: 2
+  name: "Angelica"
+  surname: "Chen"
+  company: "New York University"
+  thumbnailUrl: Angie.jpeg
+  social: {name: "site", link: ""}
+-
+  id: 3
   name: "Katrina"
   surname: "Evtimova"
   company: "New York University"
   thumbnailUrl: katrina.png
   social: {name: "site", link: "https://kevtimova.github.io/"}
 -
-  id: 3
+  id: 4
   name: "Phu Mon"
   surname: "Htut"
   company: "New York University"
   thumbnailUrl: phu.jpg
   social: {name: "site", link: "http://phumonhtut.me"}
 -
-  id: 4
+  id: 5
   name: "Ilia"
   surname: "Kulikov"
   company: "New York University"
   thumbnailUrl: ilia.jpeg
   social: {name: "site", link: "https://iliakulikov.ru/"}
 -
-  id: 5
+  id: 6
   name: "Swapneel"
   surname: "Mehta"
   company: "New York University"
   thumbnailUrl: swapneel.png
   social: {name: "site", link: "https://swapneelm.github.io/"}
 - 
-  id: 6
+  id: 7
   name: "Nikita"
   surname: "Nangia"
   company: "New York University"
   thumbnailUrl: nikita.png
   social: {name: "site", link: "https://woollysocks.github.io/"}
 - 
-  id: 7
+  id: 8
   name: "Richard"
   surname: "Pang"
   company: "New York University"
   thumbnailUrl: richard.jpg
   social: {name: "site", link: "https://yzpang.github.io/"}
 - 
-  id: 8
+  id: 9
+  name: "Harvineet"
+  surname: "Singh"
+  company: "New York University"
+  thumbnailUrl: harvineet.png
+  social: {name: "site", link: "https://harvineet.github.io/"}
+- 
+  id: 10
   name: "Alex"
   surname: "Wang"
   company: "New York University"
