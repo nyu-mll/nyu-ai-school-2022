@@ -29,8 +29,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- - {link: "https://forms.gle/VN1mtqCxVkRRtfYd6", text: "Apply"}
- - {link: "https://colab.research.google.com/drive/1nYVb-pBKV5k2zFRoO_qrryl75jZXbBq0?usp=sharing", text: "Assignment"}
+ - {link: "https://docs.google.com/forms/d/1VJcItxaSjOCH9ruMjvjWkFgNfwZvc1zBz650FKRk4D4/edit?usp=sharing", text: "Apply"}
+ - {link: "https://colab.research.google.com/drive/1ePJEuccG-igb3jMk5XxwCr73E0I4yXZ3?usp=sharing", text: "Assignment"}
 # - {permalink: "/team/", text: "Team"}
 
 # Hero Block
