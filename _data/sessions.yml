@@ -45,13 +45,13 @@
   title: "<a href='https://drive.google.com/file/d/1ZgWR8QI8WU3slc49jbUNkI06l0sErc_p/view?usp=sharing'>Bayesian Machine Learning</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [5]
+  speakers: 
 -
   id: 006
   title: "<a href='https://drive.google.com/drive/folders/1I0NPKPI7c71Y0CaDDb_KDV7lP--mfm1T?usp=sharing'>Reinforcement Learning</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [4]
+  speakers: 
 -
   id: 007
   title: "<a href='https://drive.google.com/drive/folders/1I0NPKPI7c71Y0CaDDb_KDV7lP--mfm1T?usp=sharing'>Fairness and Transparency</a>"
@@ -100,8 +100,8 @@
   speakers: [0]
 -
   id: 303
-  title: "Social Event (Virtual)"
-  description: "Informal (and optional) online meetup"
+  title: "Social Event"
+  description: ""
   subtype: presentation
   speakers:
 -
