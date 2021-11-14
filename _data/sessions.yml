@@ -3,37 +3,37 @@
   title: "<a href='https://drive.google.com/drive/folders/1zlAe4CZcAMbNVCWT3tkQAArR8_k2iqFg?usp=sharing'>Introduction to Machine Learning</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [1]
+  speakers: [5]
 -
   id: 002
   title: "<a href='https://drive.google.com/drive/folders/1WaPDcYbtEgaZqnITHiihOnVhzjP6mHLA?usp=sharing'>Math for Machine Learning</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [3]
+  speakers: 
 -
   id: 100
   title: "<a href='https://drive.google.com/file/d/13aiDLVeYs9aaR4kM51wKOVAsUWOJ-jtD/view?usp=sharing'>Panel: Building a Career in ML</a>"
   description: "Fireside Chat"
   subtype: panel
-  speakers: [2, 8, 1, 13]
+  speakers: 
 -
   id: 003
   title: "<a href='https://drive.google.com/drive/folders/1osi9iWSrKGHYtA6jjd6CKCPoN34xFK_R?usp=sharing'>Introduction to Deep Learning - I</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [11]
+  speakers: [4]
 -
   id: 004
   title: "<a href='https://drive.google.com/drive/folders/1c9YcDfWScpeSL055DdGtsOaq82HJ9qiN?usp=sharing'>Introduction to Deep Learning - II</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [12]
+  speakers: [2]
 -
   id: 101
   title: "<a href='https://drive.google.com/file/d/16U3mQek5dkttwJVF_Ji0lpnNaiPgcJDN/view?usp=sharing'>Panel: Failing at AI</a>"
   description: "Fireside Chat"
   subtype: panel
-  speakers: [7, 9, 10, 14]
+  speakers: 
 -
   id: 102
   title: "Panel: Next Steps in AI (unrecorded)"
@@ -57,7 +57,7 @@
   title: "<a href='https://drive.google.com/drive/folders/1I0NPKPI7c71Y0CaDDb_KDV7lP--mfm1T?usp=sharing'>Fairness and Transparency</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [6]
+  speakers: [1]
 -
   id: 402
   title: "Lunch"

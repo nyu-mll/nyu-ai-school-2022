@@ -20,11 +20,47 @@
     - {name: "twitter", link: "https://twitter.com/sjmielke"}
 - 
   id: 3
+  name: "Cinjon"
+  surname: "Resnick"
+  company: "New York University"
+  title: "PhD Candidate"
+  bio: ""
+  thumbnailUrl: cinjon.jpeg
+  rockstar: true
+- 
+  id: 4
+  name: "Elena"
+  surname: "Sizikova"
+  company: "New York University"
+  title: "Moore Sloan Faculty Fellow"
+  bio: ""
+  thumbnailUrl: Elena.jpeg
+  rockstar: true
+- 
+  id: 5
+  name: "Savannah"
+  surname: "Thais"
+  company: "Princeton University"
+  title: "Postdoctoral Associate"
+  bio: ""
+  thumbnailUrl: savannah.jpeg
+  rockstar: true
+- 
+  id: 6
   name: "Nan"
   surname: "Wu"
   company: "New York University"
   title: "PhD Candidate"
   bio: "<a href='https://wooginawunan.github.io/'>Nan Wu</a> is a Ph.D. candidate at NYU Center for Data Science, working with Professor Krzysztof Geras and Professor Kyunghyun Cho. She is one of the recipients of Google Ph.D. Fellowship 2020 on Machine Perception, Speech Technology, and Computer Vision. Her research focuses on helping deep neural networks to overcome difficulties when learning from multiple input modalities, with application on medical imaging, clinical notes understanding and text-to-speech. She was on the executive board of the NYU Women in Data Science group (2020-2021). Before joining NYU, she studied Statistics and Business Administration at University of Science and Technology of China, School of Gifted Young."
   thumbnailUrl: nanwu.jpg
+  rockstar: true
+- 
+  id: 7
+  name: "Lily"
+  surname: "Zhang"
+  company: "New York University"
+  title: "PhD Candidate"
+  bio: ""
+  thumbnailUrl: lily.png
   rockstar: true
 -
