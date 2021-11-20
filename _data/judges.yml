@@ -18,7 +18,7 @@
   surname: "Chen"
   company: "New York University"
   thumbnailUrl: Angie.jpeg
-  social: {name: "site", link: ""}
+  social: {name: "site", link: "https://angie-chen55.github.io/"}
 -
   id: 3
   name: "Katrina"
