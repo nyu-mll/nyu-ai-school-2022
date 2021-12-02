@@ -63,13 +63,20 @@
   social: {name: "site", link: "https://yzpang.github.io/"}
 - 
   id: 9
+  name: "Jason"
+  surname: "Phang"
+  company: "New York University"
+  thumbnailUrl: jasonp.png
+  social: {name: "site", link: "https://jasonphang.com/"}
+- 
+  id: 10
   name: "Harvineet"
   surname: "Singh"
   company: "New York University"
   thumbnailUrl: harvineet.png
   social: {name: "site", link: "https://harvineet.github.io/"}
 - 
-  id: 10
+  id: 11
   name: "Alex"
   surname: "Wang"
   company: "New York University"
