@@ -1,63 +1,57 @@
 -
   id: 001
-  title: "<a href='https://drive.google.com/drive/folders/1zlAe4CZcAMbNVCWT3tkQAArR8_k2iqFg?usp=sharing'>Introduction to Machine Learning</a>"
+  title: "<a href=''>Introduction to Machine Learning</a>"
   description: "Lecture"
   subtype: presentation
   speakers: [5]
 -
   id: 002
-  title: "<a href='https://drive.google.com/drive/folders/1WaPDcYbtEgaZqnITHiihOnVhzjP6mHLA?usp=sharing'>Math for Machine Learning</a>"
+  title: "<a href=''>Fundamental Concepts for AI</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: 
+  speakers: [8]
 -
   id: 100
-  title: "<a href='https://drive.google.com/file/d/13aiDLVeYs9aaR4kM51wKOVAsUWOJ-jtD/view?usp=sharing'>Panel: Building a Career in ML</a>"
+  title: "<a href=''>Panel: Building a Career in AI</a>"
   description: "Fireside Chat"
   subtype: panel
   speakers: 
 -
   id: 003
-  title: "<a href='https://drive.google.com/drive/folders/1osi9iWSrKGHYtA6jjd6CKCPoN34xFK_R?usp=sharing'>Introduction to Deep Learning - I</a>"
+  title: "<a href=''>Deep Learning I: Computer Vision</a>"
   description: "Lecture"
   subtype: presentation
   speakers: [4]
 -
   id: 004
-  title: "<a href='https://drive.google.com/drive/folders/1c9YcDfWScpeSL055DdGtsOaq82HJ9qiN?usp=sharing'>Introduction to Deep Learning - II</a>"
+  title: "<a href=''>Deep Learning II: Natural Language Processing</a>"
   description: "Lecture"
   subtype: presentation
   speakers: [2]
 -
   id: 101
-  title: "<a href='https://drive.google.com/file/d/16U3mQek5dkttwJVF_Ji0lpnNaiPgcJDN/view?usp=sharing'>Panel: Failing at AI</a>"
+  title: "<a href=''>Panel: Bumpy Road to AI Research</a>"
   description: "Fireside Chat"
   subtype: panel
   speakers: 
 -
   id: 102
-  title: "Panel: Next Steps in AI (unrecorded)"
-  description: "AMA with the Organizers"
+  title: "AMA/Fireside chat with Grad Students"
+  description: ""
   subtype: panel
   speakers:
 -
   id: 005
-  title: "<a href='https://drive.google.com/file/d/1ZgWR8QI8WU3slc49jbUNkI06l0sErc_p/view?usp=sharing'>Bayesian Machine Learning</a>"
-  subtype: presentation
-  description: "Lecture"
-  speakers: 
--
-  id: 006
-  title: "<a href='https://drive.google.com/drive/folders/1I0NPKPI7c71Y0CaDDb_KDV7lP--mfm1T?usp=sharing'>Reinforcement Learning</a>"
-  subtype: presentation
-  description: "Lecture"
-  speakers: 
--
-  id: 007
-  title: "<a href='https://drive.google.com/drive/folders/1I0NPKPI7c71Y0CaDDb_KDV7lP--mfm1T?usp=sharing'>Fairness and Transparency</a>"
+  title: "<a href=''>Fairness and Transparency</a>"
   subtype: presentation
   description: "Lecture"
   speakers: [1]
+-
+  id: 006
+  title: "<a href=''>Applied AI Lightning Talks</a>"
+  subtype: presentation
+  description: "Lecture"
+  speakers: 
 -
   id: 402
   title: "Lunch"
@@ -94,10 +88,9 @@
   description: ""
 -
   id: 302
-  title: "Lab Session"
+  title: "Lab Sessions (Parallel)"
   description: ""
   subtype: presentation
-  speakers: [0]
 -
   id: 303
   title: "Social Event"
