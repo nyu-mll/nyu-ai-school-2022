@@ -65,11 +65,12 @@
   bio: ""
   thumbnailUrl: lily.png
   rockstar: true
--id: 8
+-
+  id: 8
   name: "Naomi"
   surname: "Saphra"
   company: "New York University"
   title: "Postdoctoral Researcher"
   bio: ""
   thumbnailUrl: person.jpeg
-  rockstar: true
+
