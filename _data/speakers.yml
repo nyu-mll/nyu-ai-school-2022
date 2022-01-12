@@ -100,7 +100,7 @@
   surname: "Cranmer"
   company: "Princeton University"
   title: "PhD Candidate"
-  bio: "<a href='https://astroautomata.com/'>Miles</a> is a PhD Candidate at Princeton University working on AI for Astrophysics."
+  bio: "<a href='https://astroautomata.com/'>Miles</a> is a PhD Candidate in Astrophysical Sciences at Princeton University, advised by David Spergel and Shirley Ho. He recently finished a research scientist internship at DeepMind, working under Peter Battaglia. He works on developing new machine learning algorithms for different problems in physics and astrophysics, with a research emphasis on \"opening the black box\" and distilling physical insight from trained neural networks."
   thumbnailUrl: Miles.jpg
   rockstar: true
 -
@@ -163,7 +163,7 @@
   surname: "Yi"
   company: "Google"
   title: "Software Engineer"
-  bio: "<a href='https://www.linkedin.com/in/ren-yi/'>Dr. Ren Yi</a> is a software engineer at Google. She earned her PhD in computational science from NYU."
+  bio: "<a href='https://www.linkedin.com/in/ren-yi/'>Ren</a> is a software engineer at Google working on federated learning. She recently completed her PhD in computer science from NYU co-advised by Dr. Rich Bonneau and Dr. Kyunghyun Cho, where she developed machine learning methods for data-limited problems in Genomics. Prior to her journey in computer science, she was a biology major in undergrad, where she spent a year working on zebrafish lateral line embryonic development. Outside of research, she likes growing plants from seeds, going on rocky hikes, and trying not to injure herself too badly when snowboarding."
   thumbnailUrl: renyi.jpg
   rockstar: true
 -
